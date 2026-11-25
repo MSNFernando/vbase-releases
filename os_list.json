@@ -1,0 +1,15 @@
+{
+  "imager": {},
+  "os_list": [
+    {
+      "name": "vBase 0.1",
+      "description": "Released 26 Nov 2026 \u00b7 Ubuntu 26.04 \u00b7 for IBM System x and other x86-64 servers",
+      "url": "https://github.com/MSNFernando/vbase-releases/releases/download/v0.1/vbase-0.1.img.xz",
+      "extract_size": 6354370560,
+      "extract_sha256": "15f04f3ac5349a90b90417ea26ee003a867da7932c96401e474c3852ab4deee6",
+      "image_download_size": 1722297888,
+      "image_download_sha256": "d00196a6357c3520c479ada51c6561495db73ce98027322dc9e04993e4c48df5",
+      "release_date": "2026-11-26"
+    }
+  ]
+}
