@@ -2,6 +2,16 @@
   "imager": {},
   "os_list": [
     {
+      "name": "vBase 2026.1.0",
+      "description": "Released 27 Nov 2026 \u00b7 Ubuntu 26.04 \u00b7 for IBM System x and other x86-64 servers",
+      "url": "https://github.com/MSNFernando/vbase-releases/releases/download/v2026.1.0/vbase-2026.1.0.img.xz",
+      "extract_size": 6372196352,
+      "extract_sha256": "7c7a6aab521ec413b2ee0f2b670f2bcfdb883aab6f0923a47d69d620d648191e",
+      "image_download_size": 1739588800,
+      "image_download_sha256": "73026c17ec85e9576b4b1f7a738de09fea36c7f97ffd565db13f8b5cc9a218f4",
+      "release_date": "2026-11-27"
+    },
+    {
       "name": "vBase 0.1",
       "description": "Released 26 Nov 2026 \u00b7 Ubuntu 26.04 \u00b7 for IBM System x and other x86-64 servers",
       "url": "https://github.com/MSNFernando/vbase-releases/releases/download/v0.1/vbase-0.1.img.xz",
